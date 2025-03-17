@@ -64,7 +64,7 @@ Prepare a report with calculations and explanations. Explain which vertices and 
 
 4. Are there bottlenecks that can be eliminated to improve the efficiency of the logistics network?
 
-Solution is in file `task1.ipynb`
+#### Solution is done in file `task1.ipynb`
 
 ### Task 2. Comparison of `OOBTree` and Dictionary Efficiency for Range Queries
 
@@ -117,4 +117,12 @@ Develop a program to store a large dataset of products in two data structures â€
 ```
 Total range_query time for OOBTree: X.XXXXXX seconds
 Total range_query time for Dict: X.XXXXXX seconds
+```
+
+#### Solution is done in file `task2.py`
+
+Results:
+```
+Total range_query time for OOBTree: 0.247672 seconds
+Total range_query time for Dict: 1.623509 seconds
 ```
